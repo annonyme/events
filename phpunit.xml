@@ -1,0 +1,8 @@
+<phpunit bootstrap="tests/bootstrap.php">
+    <testsuites>
+        <testsuite name="general">
+            <file>tests/events/EventListenerTest.php</file>
+            <file>tests/events/EventHandlerTest.php</file>
+        </testsuite>
+    </testsuites>
+</phpunit>
