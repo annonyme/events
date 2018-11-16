@@ -1,5 +1,5 @@
 {
-    "name": "hannespries/events",
+    "name": "annonyme/events",
     "description": "Simple event-handler with JSON-deploymentfile support.",
     "type": "library",
     "license": "MIT",
